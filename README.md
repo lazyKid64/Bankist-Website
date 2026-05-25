@@ -34,12 +34,15 @@ Open the page directly or serve it with a local server.
 - Right-click [index.html](index.html)
 - Select **Open with Live Server**
 
-## Folder Structure
+### 📂 Project Structure
 
-- [index.html](index.html) - Markup
-- [style.css](style.css) - Styles
-- [script.js](script.js) - Interactions
-- [img/](img/) - Images and SVG sprite
+```bash
+Bankist/
+│
+├── img/
+├── index.html
+├── style.css
+└── script.js
 
 ## Credits
 
